@@ -1,10 +1,10 @@
 # Datos del alumno/a
 
-Nombre: Tu nombre y Dos apellidos
+Nombre: Adrián Garcia-Heras Herrero
 
-Curso: 1DAW o 2DAW
+Curso: 1DAW
 
-Email: tu email de IES Luis Vives o EducaMadrid
+Email: adrian.garciaheras@educa.madrid.org
 
-Nick GitHub: Tu nick de GitHub
+Nick GitHub: AdriKael
 
